@@ -25,19 +25,19 @@
 ---
 
 ### 🚀 Featured Projects
->
-> **[Nombre del Proyecto 1]** >  > 🔗 [Link al repo]
-> **[Nombre del Proyecto 2]** >  > 🔗 [Link al repo]
+
+<!-- **[Nombre del Proyecto 1]** >  > 🔗 [Link al repo]
+**[Nombre del Proyecto 2]** >  > 🔗 [Link al repo] -->
 
 ---
 
 ### 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[TU_USUARIO_AQUÍ]&show_icons=true&theme=radical)
+<!-- ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[TU_USUARIO_AQUÍ]&show_icons=true&theme=radical) -->
 
 ---
 
 ### 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[TU_LINKEDIN])
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
+<!-- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[TU_LINKEDIN])
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com) -->
