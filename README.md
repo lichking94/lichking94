@@ -26,8 +26,8 @@
 
 ### 🚀 Featured Projects
 >
-> **[Nombre del Proyecto 1]** > *Descripción breve: Implementación de una arquitectura escalable usando Terraform y AWS.* > 🔗 [Link al repo]
-> **[Nombre del Proyecto 2]** > *Descripción breve: Pipeline de CI/CD para una aplicación microservicios en Kubernetes.* > 🔗 [Link al repo]
+> **[Nombre del Proyecto 1]** >  > 🔗 [Link al repo]
+> **[Nombre del Proyecto 2]** >  > 🔗 [Link al repo]
 
 ---
 
